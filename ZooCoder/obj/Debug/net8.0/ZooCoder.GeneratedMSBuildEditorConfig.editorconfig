@@ -1,5 +1,7 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
@@ -9,39 +11,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ZooCoder
 build_property.RootNamespace = ZooCoder
-build_property.ProjectDir = /workspaces/ZooCoder9/ZooCoder/
+build_property.ProjectDir = /workspaces/ZooApp/ZooCoder/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /workspaces/ZooCoder9/ZooCoder
+build_property.MSBuildProjectDirectory = /workspaces/ZooApp/ZooCoder
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[/workspaces/ZooCoder9/ZooCoder/Pages/Error.cshtml]
+[/workspaces/ZooApp/ZooCoder/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ZooCoder9/ZooCoder/Pages/Index.cshtml]
+[/workspaces/ZooApp/ZooCoder/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ZooCoder9/ZooCoder/Pages/Privacy.cshtml]
+[/workspaces/ZooApp/ZooCoder/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ZooCoder9/ZooCoder/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/workspaces/ZooApp/ZooCoder/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ZooCoder9/ZooCoder/Pages/_ViewImports.cshtml]
+[/workspaces/ZooApp/ZooCoder/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ZooCoder9/ZooCoder/Pages/_ViewStart.cshtml]
+[/workspaces/ZooApp/ZooCoder/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/ZooCoder9/ZooCoder/Pages/Shared/_Layout.cshtml]
+[/workspaces/ZooApp/ZooCoder/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bbswj7epdl
